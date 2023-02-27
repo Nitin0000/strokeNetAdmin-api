@@ -1,0 +1,186 @@
+# Webalizer V2.23-08 Incremental Data - 09/18/2016 13:13:01
+2016 9 18 13 13 1
+23 18 7 11 3 1 132606 10 1 0 0 0
+7 33 33 18 18
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+23 18 132606 7 10 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+23 18 132606 10 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0
+0
+0
+18
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/themes/adminarea/js/parsley.min.js
+0 1 2 5565 0 0 0 0
+/adminarea/login/error
+0 4 2 7088 0 0 0 0
+/themes/adminarea/css/font-awesome.css
+0 1 43 5699 0 0 0 0
+/uploads/misc/improvelogo.png
+1 1 1 11470 0 0 0 0
+/favicon.ico
+0 1 18 7659 0 0 0 0
+/adminarea
+0 1 7146783199574844790 1688 0 0 0 0
+/themes/adminarea/css/bootstrap-responsive.css
+0 5 2 17709 0 0 0 0
+/themes/adminarea/js/jquery.js
+0 1 6 33485 0 0 0 0
+/themes/adminarea/css/font-awesome-ie7.css
+0 1 147 4212 0 0 0 0
+/themes/adminarea/css/cosmo.css
+0 1 7146783199574844790 24585 0 0 0 0
+/themes/adminarea/js/bootstrap.js
+0 1 39 11182 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+162.158.47.122
+0 10 5 11040 1 1474204380 0 0
+/adminarea/login/error
+162.158.47.191
+0 1 1 5699 0 0 0 0
+-
+162.158.47.130
+0 1 1 7659 0 0 0 0
+-
+162.158.47.186
+0 3 3 41620 0 0 0 0
+-
+162.158.47.185
+0 2 2 15394 0 0 0 0
+-
+162.158.47.129
+0 1 1 33485 0 0 0 0
+-
+162.158.47.128
+0 5 5 17709 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+162.158.47.122
+0 10 5 11040 1 1474204380 0 0
+/adminarea/login/error
+162.158.47.191
+0 1 1 5699 0 0 0 0
+-
+162.158.47.130
+0 1 1 7659 0 0 0 0
+-
+162.158.47.186
+0 3 3 41620 0 0 0 0
+-
+162.158.47.185
+0 2 2 15394 0 0 0 0
+-
+162.158.47.129
+0 1 1 33485 0 0 0 0
+-
+162.158.47.128
+0 5 5 17709 0 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://backoffice.improvecity.com/adminarea/login/error
+1 10
+- (Direct Request)
+0 2
+https://backoffice.improvecity.com/adminarea
+1 11
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+0 23
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

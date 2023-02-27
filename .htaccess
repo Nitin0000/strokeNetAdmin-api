@@ -1,0 +1,16 @@
+#Options +FollowSymLinks
+#Options -Indexes
+
+RewriteEngine on
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^(.*)$ index.php?action=$1 [L,QSA]
+
+php_value upload_max_filesize 100M
+php_value post_max_size 100M
+php_value max_execution_time 300000
+php_value memory_limit 1024M
+php_value max_input_time 30000
